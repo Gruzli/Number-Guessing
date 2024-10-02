@@ -1,2 +1,2 @@
 # Number-Guessing
-Number Guessing
+A simple and interactive Number Guessing Game built using Java SE 11 with a graphical user interface (GUI) using the Swing library. The game challenges players to guess a randomly generated number between 1 and 100, providing feedback after each guess.
